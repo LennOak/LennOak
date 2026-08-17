@@ -10,7 +10,7 @@ Me chamo Eduardo de Carvalho, tenho 20 anos e sou do Rio de Janeiro. Atualmente,
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,azure,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,python,azure" />
   </a>
 </p>
 
@@ -18,5 +18,5 @@ Me chamo Eduardo de Carvalho, tenho 20 anos e sou do Rio de Janeiro. Atualmente,
 
 ### 📊 Estatísticas
 
-[![GitHub Stats](https://vercel.app)](https://github.com)
-[![Top Langs](https://vercel.app)](https://github.com)
+[![GitHub Stats](https://vercel.app)]([https://github.com](https://github.com/LennOak))
+[![Top Langs](https://vercel.app)][(https://github.com](https://github.com/LennOak))
