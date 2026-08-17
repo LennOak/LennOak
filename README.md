@@ -15,4 +15,8 @@ Me chamo Eduardo de Carvalho, tenho 20 anos e sou do Rio de Janeiro. Atualmente,
 ![Azure](https://shields.io)
 
 <br/>
-<br/>
+
+### 📊 Estatísticas
+
+[![GitHub Stats](https://vercel.app)](https://github.com)
+[![Top Langs](https://vercel.app)](https://github.com)
