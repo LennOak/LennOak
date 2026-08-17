@@ -18,6 +18,6 @@ Me chamo Eduardo de Carvalho, tenho 20 anos e sou do Rio de Janeiro. Atualmente,
 
 ### 📊 Estatísticas
 
-[![Estatísticas do GitHub](https://vercel.app)](https://github.com/LennOak/github-readme-stats)
+[![Estatísticas do GitHub](https://vercel.app)](https://github.com/LennOak)
 
-[![Top Linguagens](https://vercel.app)](https://github.com/LennOak/github-readme-stats)
+[![Top Linguagens](https://vercel.app)](https://github.com/LennOak)
