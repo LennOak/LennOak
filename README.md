@@ -11,7 +11,7 @@ Me chamo Eduardo de Carvalho, tenho 20 anos e sou do Rio de Janeiro. Atualmente,
 [![Minhas Habilidades](https://skillicons.dev)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=excel,powerbi,python,azure,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,powerbi,python,azure" />
   </a>
 </p>
 
