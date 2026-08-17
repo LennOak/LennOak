@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eduardo de Carvalho
+# Eduardo de Carvalho
 
 **`Analista de Dados`**
 
