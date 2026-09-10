@@ -10,7 +10,7 @@ Me chamo Eduardo de Carvalho, tenho 20 anos e sou do Rio de Janeiro. Atualmente,
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,python,azure" />
+    Excel, PowerBI, Banco de Dados (SQLServer) e Python(Pandas)
   </a>
 </p>
 
