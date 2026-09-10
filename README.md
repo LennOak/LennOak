@@ -9,7 +9,7 @@ Me chamo Eduardo de Carvalho, tenho 20 anos e sou do Rio de Janeiro. Atualmente,
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-    Excel, PowerBI, Banco de Dados (SQLServer) e Python(Pandas)
+    Excel, PowerBI, Banco de Dados (SQLServer) e Python (Pandas)
   </a>
 </p>
 
